@@ -1,3 +1,7 @@
+---------------------------------------------------
+-- For more scripts or support join our discord ---
+-- https://discord.gg/jxscripts
+---------------------------------------------------
 -- config is server sided, modders wont be able to dump
 Config = {}
 
